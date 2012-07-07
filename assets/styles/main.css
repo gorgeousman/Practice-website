@@ -85,6 +85,16 @@ body {
 	color:#fff;
 	text-align:left;
 }
+.news-summary{
+	border:1px dotted #333;
+	padding:0 10px;	
+	margin-bottom:10px;
+}
+.news-summary p,
+.news-summary h3{
+	color:#fff;
+	text-align:left;
+}
 .footer-wrapper{
 	background-color:#666;
 	height:85px;
@@ -94,4 +104,7 @@ body {
 	color: #fff;
 	text-decoration: none;
 	
+}
+.submit-form{
+	width:50px;
 }
